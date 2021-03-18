@@ -1,0 +1,15 @@
+C:\Users\Jérôme\source\repos\JustePrix\bin\Debug\JustePrix.exe.config
+C:\Users\Jérôme\source\repos\JustePrix\bin\Debug\JustePrix.exe
+C:\Users\Jérôme\source\repos\JustePrix\bin\Debug\JustePrix.pdb
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.csprojAssemblyReference.cache
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\MainWindow.g.cs
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\App.g.cs
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix_MarkupCompile.cache
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix_MarkupCompile.lref
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\MainWindow.baml
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.g.resources
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.Properties.Resources.resources
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.csproj.GenerateResource.cache
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.csproj.CoreCompileInputs.cache
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.exe
+C:\Users\Jérôme\source\repos\JustePrix\obj\Debug\JustePrix.pdb

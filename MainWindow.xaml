@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:JustePrix"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Le Juste Prix " Height="450" Width="800">
     <Grid>
-        
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Bienvenue sur l'application du juste prix!" VerticalAlignment="Top" FontSize="20" Width="792" TextAlignment="Center" TextDecorations="Underline" Foreground="#FF040404"/>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="302" Margin="250,95,240,0" TextAlignment="Center" Name="TextBlockObjectToGuess" Text="Tentez de deviner le prix d'un mug (indice: c'est entre 1 et 50 euros)" Visibility="Hidden"/>
+        <TextBox HorizontalAlignment="Right" Height="23" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="120" FontSize="14" Name="TextBoxUserInput" Margin="0,0,315,120" Visibility="Hidden"/>
+        <Button Content="Button" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Click="Button_Click" Margin="0,0,203,120" Name="ButtonTryNbr" Visibility="Hidden"/>
+        <Label Content="Entrez un nombre ici :" HorizontalAlignment="Left" Margin="215,276,0,0" VerticalAlignment="Top" Name="LabelForUserInput" Visibility="Hidden"/>
+        <Button Content="Jouer !" HorizontalAlignment="Left" Margin="363,150,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" Name="ButtonPlay"/>
     </Grid>
 </Window>
